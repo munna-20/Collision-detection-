@@ -11,4 +11,4 @@ At the end of the waiting time period, it again checks the status of the channel
 BACK-OFF ALGORITHM 
 back off algorithm is used for collision  resolution.it works as, when thus collision occurs, both the devices wait for a random amount of time before retransmittingthe signal again, they keep on trying until the data is transferred successfully.
 this is called back off algorithm, since the nodes "back off" for a certain amount of time before they try to re-access it again. this random amount of time is directly proportional to the number of attempts it has made to transmit the signal 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rrberOfSAqPTlpdziZPAF0LPK8P6-d3QtZdXEFB3UWwYNlWlFv-tNa0&s=10
+
